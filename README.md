@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/pooja3rao@gmail.com" target="blank"><img src="https://img.shields.io/twitter/follow/pooja3rao@gmail.com?logo=twitter&style=for-the-badge" alt="pooja3rao@gmail.com" /></a> </p>
 
-- 🌱 I’m currently learning **React,NEM**
+- 🌱 I’m currently learning Full Stack Web Devlopment in Masai School
 
 - 👨‍💻 All of my projects are available at [https://github.com/poojakittu/poojakittu.github.io](https://github.com/poojakittu/poojakittu.github.io)
 
