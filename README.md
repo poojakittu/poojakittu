@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning Full Stack Web Devlopment in Masai School
 
-- 👨‍💻 All of my projects are available at [https://poojakittu.github.io/](https://poojakittu.github.io/))
+- 👨‍💻 All of my projects are available at [https://poojakittu.github.io/](https://poojakittu.github.io/)
 
 - 💬 Ask me about **Ilike to learn new skills**
 
