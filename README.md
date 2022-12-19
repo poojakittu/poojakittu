@@ -37,4 +37,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=poojakittu&show_icons=true&locale=en" alt="poojakittu" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=poojakittu&" alt="poojakittu" /></p>
+<p><img src="https://streak-stats.demolab.com?user=poojakittu&_border=true&theme=dark&hide_border=true&theme=react" style="width: 47%" /></p>
