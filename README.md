@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Pooja Yadav</h1>
-<h3 align="center">A passionate fullstack developer from India</h3>
+<h3 align="center"> Fullstack Developer </h3>
 
 <p align="left"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSl2iBCsGCgR64_UnOQA8rj7Fe_EGa4_eQXkw&usqp=CAU" alt="poojakittu" /> </p>
 
