@@ -20,7 +20,7 @@
 
 <hr>
 
-- 📄 Know about my experiences [Resume](https://drive.google.com/drive/u/0/my-drive)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1A7gFr8fcGYXQ9BKYyhXNlPDOv8Yfei6L/view?usp=share_link)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
